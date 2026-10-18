@@ -1,0 +1,12 @@
+TASK FILE
+
+Name: Andrea Kaye Nieves
+GitHub username: KayeNieves
+Role: Repository Creator
+Branch: main
+
+What I did:
+- I created the repository and invited the team members
+
+Status: Done
+Date completed: October 17, 2026
